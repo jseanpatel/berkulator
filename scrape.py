@@ -40,8 +40,12 @@ for course in courses:
 
     data['number_units'] = number_units
 
+
+    # Go back and clear search box for next query.
+    driver.back()
+    driver.refresh()
+    driver.find_element_by_id('classSearch').clear()
+
     # MARK RATEMYPROFESSOR
 
-
-writeToJSONFile("1",'classes.json', data)
 
