@@ -11,79 +11,146 @@
     <!-- Bulma Version 0.8.x-->
     <link rel="stylesheet" href="https://unpkg.com/bulma@0.8.0/css/bulma.min.css" />
     <link rel="stylesheet" type="text/css" href="../css/admin.css">
-    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
-<body style="border-radius: 25px">
-
-    <!-- START NAV -->
-    <!-- END NAV -->
+<body>
     <br>
+    <!-- END NAV -->
     <div class="container">
-        <article class="message">
-            <div class="message-header has-background-link">
-                <p> What is all this? </p>
-                </button>
-            </div>
-            <div class="message-body is-link">
-                Balancing your academic life with everything else college life has to throw at you
-                can be a little difficult sometimes.
-                As a Calhacks 6.0 team full of first semester students here at UC Berkeley, grasping an idea of how much
-                classes can take up your time was and is still a challenge.
-                Many students often times run into a problem of overloading themselves with academics and club
-                activities
-                which can lead to poor health management.
-                By giving these students a quantification tool, Berkulator, they are able to see how difficult their
-                semester will be given all the responses and thoughts people gave on various Berkeley databases.
-            </div>
-        </article>
+        <div class="columns is-centered">
+            <div class="column is-9">
 
-        <div class="columns">
-            <div class="column is-full">
-                
-                <article class="message">
-                    <div class="message-header has-background-link">
-                        <p> Ok, but how do I use it? </p>
-                        </button>
+                <section class="hero is-info welcome is-small">
+                    <div class="hero-body">
+                        <div class="container">
+                            <h1 class="title has-text-centered">
+                                <b>Berkulator</b>
+                            </h1>
+                            <h2 class="subtitle has-text-centered">
+                                <i> The hollistic academic forecaster for UC Berkeley students. </i>
+                            </h2>
+                        </div>
                     </div>
-                    <div class="message-body is-link">
-                       
+                </section>
+                <section class="info-tiles">
+                    <div class="tile is-ancestor has-text-centered">
+                        <div class="tile is-parent">
+                            <article class="tile is-child box">
+                                <p class="title">>30k</p>
+                                <p class="subtitle">Students</p>
+                            </article>
+                        </div>
+                        <div class="tile is-parent">
+                            <article class="tile is-child box">
+                                <p class="title">>10</p>
+                                <p class="subtitle">Data Sources</p>
+                            </article>
+                        </div>
+                        <div class="tile is-parent">
+                            <article class="tile is-child box">
+                                <p class="title">3.4k</p>
+                                <p class="subtitle">Open Orders</p>
+                            </article>
+                        </div>
+                        <div class="tile is-parent">
+                            <article class="tile is-child box">
+                                <p class="title">19</p>
+                                <p class="subtitle">Exceptions</p>
+                            </article>
+                        </div>
                     </div>
-                </article>
+                </section>
                 <div class="columns">
                     <div class="column is-6">
                         <div class="card events-card">
                             <header class="card-header">
-                                <p class="card-header-title">
-                                    Added Classes
+                                <p class="card-header-title is-centered">
+                                    Events
                                 </p>
                                 <a href="#" class="card-header-icon" aria-label="more options">
-
+                                    <span class="icon">
+                                       
+                                    </span>
                                 </a>
                             </header>
                             <div class="card-table">
                                 <div class="content">
                                     <table class="table is-fullwidth is-striped">
                                         <tbody>
-
+                                            <tr>
+                                                <td width="5%"><i class="fa fa-bell-o"></i></td>
+                                                <td>COMPSCI 61A</td>
+                                                <td class="level-right"><a class="button is-small"
+                                                        href="#">Add</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="5%"><i class="fa fa-bell-o"></i></td>
+                                                <td>COMPSCI 70</td>
+                                                <td class="level-right"><a class="button is-small"
+                                                        href="#">Add</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="5%"><i class="fa fa-bell-o"></i></td>
+                                                <td>MATH 24</td>
+                                                <td class="level-right"><a class="button is-small"
+                                                        href="#">Add</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="5%"><i class="fa fa-bell-o"></i></td>
+                                                <td>MATH 54</td>
+                                                <td class="level-right"><a class="button is-small"
+                                                        href="#">Add</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="5%"><i class="fa fa-bell-o"></i></td>
+                                                <td>HISTORY 7B</td>
+                                                <td class="level-right"><a class="button is-small"
+                                                        href="#">Add</a></td>
+                                            </tr>                              
                                         </tbody>
                                     </table>
                                 </div>
                             </div>
-                            <footer class="card-footer">
-                                <a href="#" class="card-footer-item">View All</a>
+                            <footer class="card-footer" style="padding-bottom: 1.85rem">
+                               
                             </footer>
                         </div>
                     </div>
-
                     <div class="column is-6">
                         <div class="card">
                             <header class="card-header">
-                                <p class="card-header-title">
-                                    Search Classes
+                                <p class="card-header-title is-centered">
+                                    Inventory Search
                                 </p>
                                 <a href="#" class="card-header-icon" aria-label="more options">
-
+                                    <span class="icon">
+                                        <i class="fa fa-angle-down" aria-hidden="true"></i>
+                                    </span>
+                                </a>
+                            </header>
+                            <div class="card-content">
+                                <div class="content">
+                                    <div class="control has-icons-left has-icons-right">
+                                        <input class="input is-large" type="text" placeholder="">
+                                        <span class="icon is-medium is-left">
+                                            <i class="fa fa-search"></i>
+                                        </span>
+                                        <span class="icon is-medium is-right">
+                                            <i class="fa fa-check"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <header class="card-header">
+                                <p class="card-header-title is-centered">
+                                    User Search
+                                </p>
+                                <a href="#" class="card-header-icon" aria-label="more options">
+                                    <span class="icon">
+                                        <i class="fa fa-angle-down" aria-hidden="true"></i>
+                                    </span>
                                 </a>
                             </header>
                             <div class="card-content">
@@ -102,22 +169,21 @@
                         </div>
                     </div>
                 </div>
-                <section class="hero has-background-link welcome is-small">
-                    <div class="hero-body">
-                        <div class="container has-text-centered">
-                            
+                <section class="hero is-warning welcome is-small">
+                        <div class="hero-body">
+                            <div class="container">
+                                <h1 class="title has-text-centered">
+                                    <b>Your Berkulator index is out of 20.</b>
+                                </h1>
+                                <h2 class="subtitle has-text-centered">
+                                    <i> This indicates... </i>
+                                </h2>
+                            </div>
                         </div>
-
-                    </div>
-                </section>
+                    </section>
             </div>
-
         </div>
-
     </div>
-
-    </div>
-
     <script async type="text/javascript" src="../js/bulma.js"></script>
 </body>
 
