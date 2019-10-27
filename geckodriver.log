@@ -3760,3 +3760,32 @@ b.dispatchEvent@https://code.createjs.com/createjs-2015.11.26.min.js:12:3056
 a._tick@https://code.createjs.com/createjs-2015.11.26.min.js:12:6852
 a._handleTimeout@https://code.createjs.com/createjs-2015.11.26.min.js:12:6140
 
+1572171079950	Marionette	INFO	Stopped listening on port 54526
+1572171080869	Marionette	INFO	Stopped listening on port 55229
+1572171082156	Marionette	INFO	Stopped listening on port 55344
+1572171083977	Marionette	INFO	Stopped listening on port 55577
+1572171086288	Marionette	INFO	Stopped listening on port 55703
+1572171087657	Marionette	INFO	Stopped listening on port 55884
+1572171088873	Marionette	INFO	Stopped listening on port 56005
+1572171090959	Marionette	INFO	Stopped listening on port 56118
+1572171095967	Marionette	INFO	Stopped listening on port 56236
+1572171099531	Marionette	INFO	Stopped listening on port 56332
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572171106090	Marionette	INFO	Stopped listening on port 56448
+1572171107442	Marionette	INFO	Stopped listening on port 56567
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572171108897	Marionette	INFO	Stopped listening on port 56685
+1572171111199	Marionette	INFO	Stopped listening on port 57009
+1572171112273	Marionette	INFO	Stopped listening on port 57337
+[Parent 6290, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1572171113363	Marionette	INFO	Stopped listening on port 57513
