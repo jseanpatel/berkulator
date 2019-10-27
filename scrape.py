@@ -14,8 +14,8 @@ def writeToJSONFile(path, fileName, data):
         json.dump(data, fp)
 
 for indivClass in classes:
-    click1 = driver.find_element_by_class_name("filter-selection").click()
-    click2 = driver.find_element_by_xpath("//*[text()[contains(., 'See grade distributions')]]")
+    driver.find_element_by_class_name("filter-selection").click()
+    driver.find_element_by_xpath("//*[text()[contains(., 'See grade distributions')]]").click()
     data = {}
     data['class'] = ''
     pass
