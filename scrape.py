@@ -1,37 +1,47 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+import json
+import os, sys
+
+cwd = os.getcwd()
 
 driver = webdriver.Firefox()
 
 driver.get("https://www.berkeleytime.com/catalog")
 
-# Then navigate to a search for each class.
-classes = driver.find_elements_by_class_name("filter-selection")
 
 # Function to write values of each input to the JSON.
-def writeToJSONFile(path, fileName, data):
-    filePathNameWExt = './' + path + '/' + fileName + '.json'
-    with open(filePathNameWExt, 'w') as fp:
+def writeToJSONFile(path, file_name, data):
+    with open('classData.json', 'w') as fp:
         json.dump(data, fp)
 
-for indivClass in classes:
+data = {}
 
-    data = {}
+courses = ["COMPSCI 61A", "COMPSCI 70", "Math 54", "History 7B", "French 139"]
+for course in courses:
 
-    driver.find_element_by_class_name("filter-selection").click()
+    # MARK BERKELEYTIME
+    inputElement = driver.find_element_by_id("classSearch")
+    inputElement.send_keys(course)
 
-    numberUnits = driver.find_element_by_class_name("filter-selection-units").text.split()[0]
-    print(numberUnits)
+    # First navigate to Berkeleytime and look at each class.
+    driver.find_element_by_class_name("filter-selection-description").click()
 
+    driver.find_element_by_class_name("app-container").click()
+
+    # Get the amount of units.
+    number_units = driver.find_element_by_class_name("filter-selection-units").text.split()[0]
+
+    # Now navigate to grade distributions.
     driver.find_element_by_xpath("//*[text()[contains(., 'See grade distributions')]]").click()
-    driver.find_element_by_class_name("recharts-surface").click()
+   # classAverage = driver.find_element_by_class_name("class-avg-stats").click()
 
     # courseAverage = driver.find_element_by_xpath("//*[text()[contains(., 'GPA')]]").text
-    data = {}
-    data['class'] = ''
-    break
 
-    # writeToJSONFile('./','file-name',data)
+    data['number_units'] = number_units
+
+    # MARK RATEMYPROFESSOR
 
 
+writeToJSONFile("1",'classes.json', data)
 

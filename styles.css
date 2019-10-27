@@ -1,5 +1,9 @@
-html {
+body {
     border-radius: 40px !important;
+    margin-left: 8em !important;
+    margin-right: 8em !important;
+    margin-top: 3em !important;
+    border-radius: 15em !important;
 }
 .center {
   display: block;
