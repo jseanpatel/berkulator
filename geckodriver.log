@@ -808,3 +808,216 @@ JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: 
 1572137491245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1572137493458	Marionette	INFO	Listening on port 62092
 1572137493556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572137691367	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.iFPhl2cLy8y0"
+1572137692163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572137692163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572137692163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572137692163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572137694551	Marionette	INFO	Listening on port 62994
+1572137694661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572137706033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.zkShheZBQffs"
+1572137706585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572137706585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572137706585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572137706585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572137708696	Marionette	INFO	Listening on port 63127
+1572137708786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572137739889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.TpJjx6pHpWZg"
+1572137740717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572137740718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572137740718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572137740718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572137743144	Marionette	INFO	Listening on port 63327
+1572137743271	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1572137874142	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.hUJKpvLNMeqr"
+1572137874886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572137874887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572137874887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572137874887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572137877530	Marionette	INFO	Listening on port 64065
+1572137877630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572138100424	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.WC6yVs5jTH4D"
+1572138101185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572138101186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572138101187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572138101187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572138103588	Marionette	INFO	Listening on port 65129
+1572138103626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572138113175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.ho1htp9kW7Zi"
+1572138113829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572138113829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572138113829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572138113829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572138116310	Marionette	INFO	Listening on port 65252
+1572138116379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+1572138193087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.lvgY8b0Tksq7"
+1572138193795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572138193795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572138193795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572138193795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572138196155	Marionette	INFO	Listening on port 49334
+1572138196200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vidstat.taboola.com/vpaid/vPlayer/player/v10.5.0/OvaMediaPlayer.js, line 8: SecurityError: The operation is insecure.
+JavaScript error: https://optimized-by.rubiconproject.com/a/11684/155600/853996-15.html?&cb=0.7273691259620682&tk_st=1&rf=tnbclive.com&rp_s=c&p_screen_res=1280x800&ad_slot=155600_15&rp_secure=1 line 45 > scriptElement, line 4: SecurityError: Permission denied to access property "cmTag" on cross-origin object
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+JavaScript error: https://optimized-by.rubiconproject.com/a/11684/155600/1201918-15.html?&cb=0.6109161070766937&tk_st=1&rf=tnbclive.com&rp_s=c&p_screen_res=1280x800&ad_slot=155600_15&rp_secure=1 line 45 > scriptElement, line 4: SecurityError: Permission denied to access property "cmTag" on cross-origin object
+JavaScript error: https://vidstat.taboola.com/vpaid/vPlayer/player/v10.5.0/OvaMediaPlayer.js, line 8: SecurityError: The operation is insecure.
+1572138358359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.oVvaXNviVVZR"
+1572138359463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572138359463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572138359464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572138359464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572138362601	Marionette	INFO	Listening on port 50191
+1572138362716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572138370995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.TjCyeOwVGsoP"
+1572138371773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572138371773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572138371773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572138371774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572138373980	Marionette	INFO	Listening on port 50324
+1572138374095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572138384276	Marionette	INFO	Stopped listening on port 60444
+1572138386758	Marionette	INFO	Stopped listening on port 60593
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572138387881	Marionette	INFO	Stopped listening on port 61572
+1572138389261	Marionette	INFO	Stopped listening on port 61751
+1572138390304	Marionette	INFO	Stopped listening on port 61907
+1572138391597	Marionette	INFO	Stopped listening on port 62092
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572138392581	Marionette	INFO	Stopped listening on port 62994
+1572138393775	Marionette	INFO	Stopped listening on port 63127
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572138395155	Marionette	INFO	Stopped listening on port 63327
+1572138395912	Marionette	INFO	Stopped listening on port 64065
+1572138397170	Marionette	INFO	Stopped listening on port 65129
+1572138398481	Marionette	INFO	Stopped listening on port 59994
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572138400136	Marionette	INFO	Stopped listening on port 59916
+1572138402218	Marionette	INFO	Stopped listening on port 60073
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1572138404004	Marionette	INFO	Stopped listening on port 65252
+1572138404972	Marionette	INFO	Stopped listening on port 49334
+1572138405755	Marionette	INFO	Stopped listening on port 50191
+1572138406917	Marionette	INFO	Stopped listening on port 50324
+1572138412180	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.UvH1z24HuM2t"
+1572138412748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572138412748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572138412748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572138412748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572138414759	Marionette	INFO	Listening on port 50562
+1572138414850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572138423506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.PjmCCn1jag6v"
+1572138424116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572138424116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572138424116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572138424116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572138426609	Marionette	INFO	Listening on port 50676
+1572138426627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572138444131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.EyGew3oCqRq3"
+1572138444694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572138444695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572138444695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572138444695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572138446726	Marionette	INFO	Listening on port 50828
+1572138446791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572138458153	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.g7w4wPd0dunt"
+1572138458724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572138458724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572138458725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572138458725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572138461003	Marionette	INFO	Listening on port 50953
+1572138461029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572138483762	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.JHex6chY2lpV"
+1572138484309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572138484309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572138484309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572138484309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572138486332	Marionette	INFO	Listening on port 51130
+1572138486432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+1572139053921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.b9BJPx25pekO"
+1572139054588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572139054589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572139054589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572139054589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572139056640	Marionette	INFO	Listening on port 53692
+1572139056684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572139089002	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.8mbYl4yzP6hu"
+1572139089673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572139089673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572139089674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572139089674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572139091810	Marionette	INFO	Listening on port 53912
+1572139091890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572139115506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.fYej7OMyIMNf"
+1572139116173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572139116173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572139116173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572139116173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572139118357	Marionette	INFO	Listening on port 54095
+1572139118397	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+1572139219052	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.mPymjSJTdld3"
+1572139219753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572139219753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572139219754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572139219754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572139223654	Marionette	INFO	Listening on port 54594
+1572139223694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g/m=EPszLb,GxIAgd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,VugqBb,Wq6lxf,XMgU6d,ZDfS0b,aCZVp,aa,aam1T,abd,aspn,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,oc8g5d,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,shrb,tcc,tl,vs,xz7cCd,zbML3c?xjs=s1, line 710: Error: Script terminated by timeout at:
+s_Xjd@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g/m=EPszLb,GxIAgd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,VugqBb,Wq6lxf,XMgU6d,ZDfS0b,aCZVp,aa,aam1T,abd,aspn,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,oc8g5d,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,shrb,tcc,tl,vs,xz7cCd,zbML3c?xjs=s1:710:271
+s_Yjd@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g/m=EPszLb,GxIAgd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,VugqBb,Wq6lxf,XMgU6d,ZDfS0b,aCZVp,aa,aam1T,abd,aspn,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,oc8g5d,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,shrb,tcc,tl,vs,xz7cCd,zbML3c?xjs=s1:709:431
+s_ckd@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g/m=EPszLb,GxIAgd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,VugqBb,Wq6lxf,XMgU6d,ZDfS0b,aCZVp,aa,aam1T,abd,aspn,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,oc8g5d,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,shrb,tcc,tl,vs,xz7cCd,zbML3c?xjs=s1:726:506
+s_mN@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g/m=EPszLb,GxIAgd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,VugqBb,Wq6lxf,XMgU6d,ZDfS0b,aCZVp,aa,aam1T,abd,aspn,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,oc8g5d,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,shrb,tcc,tl,vs,xz7cCd,zbML3c?xjs=s1:725:383
+s_hkd@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g/m=EPszLb,GxIAgd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,VugqBb,Wq6lxf,XMgU6d,ZDfS0b,aCZVp,aa,aam1T,abd,aspn,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,oc8g5d,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,shrb,tcc,tl,vs,xz7cCd,zbML3c?xjs=s1:739:30
+s_ikd@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g/m=EPszLb,GxIAgd,NBZ7u,OG6ZHd,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,VugqBb,Wq6lxf,XMgU6d,ZDfS0b,aCZVp,aa,aam1T,abd,aspn,async,bgd,dvl,eN4qad,exdc,foot,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,oc8g5d,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,shrb,tcc,tl,vs,xz7cCd,zbML3c?xjs=s1:740:123
+s_bla/c<@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:512:124
+s_vka@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:481:329
+s_uka@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:478:55
+s_1h.prototype.La@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:477:460
+s_vka@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:481:329
+s_3h@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:479:202
+s_vka@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:482:86
+s_uka@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:478:55
+s_1h.prototype.callback@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:478:178
+s_0ka.prototype.Ua@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:505:416
+s_vka@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:481:329
+s_uka@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:478:55
+s_1h.prototype.callback@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:478:178
+s_Dka/<@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:482:275
+s_8ha/e.RN</e.wa<@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:331:484
+s_fia@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:335:235
+s_bia@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:335:98
+s_ab.prototype.Fa@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:334:243
+s_0ha@https://www.google.com/xjs/_/js/k=xjs.s.en_US.smoFhilCC1U.O/ck=xjs.s.nO4uytA-ERM.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=BAAAsAiYuwHw_D8UAASCngEAIKAt2GCBFCRkjIUBAaA/d=1/dg=2/ct=zgms/rs=ACT90oFiFgq0c9xQS2gjguvFxGsH5eaa2g:325:326
+
+1572139295997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.nk5cE8D2Nr2K"
+1572139296639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572139296639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572139296639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572139296640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572139299655	Marionette	INFO	Listening on port 55024
+1572139299755	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+1572140096809	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.vn5poAOcjjze"
+1572140097446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572140097446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572140097446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572140097447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572140099828	Marionette	INFO	Listening on port 56518
+1572140099887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572140121626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wb/5h_xnd097fj3tnyk0s_mx7p00000gn/T/rust_mozprofile.d0Imh6wmcBL0"
+1572140122289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572140122290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572140122290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572140122290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572140124574	Marionette	INFO	Listening on port 56591
+1572140124635	Marionette	WARN	TLS certificate errors will be ignored for this session
